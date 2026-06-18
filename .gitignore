@@ -1,0 +1,7 @@
+# Large image files — uploaded as GitHub Release attachments
+SYSTEM.img
+PRODUCT.img
+VENDOR.img
+
+# Claude Code session data
+.claude/
