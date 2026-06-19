@@ -1,5 +1,9 @@
 # SM-T860 One UI 6 (Android 14) — Custom ROM Image Set
 
+为三星Galaxy Tab S6适配的oneUI6（Android14）项目，除指纹外所有全部硬件可用。
+
+中国大陆网络快速下载：https://1817112769.share.123865.com/123pan/XdYVVv-OxbL
+
 **Target device:** Samsung Galaxy Tab S6 Wi-Fi — SM-T860 (`gts6lwifi`)  
 **Base firmware:** T860XXS5DWH1 (vendor/boot/dtbo) + T733XXS9DYF1 (system/product, Android 14 / One UI 6)  
 **Build date:** 2025-06-19
