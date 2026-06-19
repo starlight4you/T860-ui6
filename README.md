@@ -6,7 +6,7 @@
 
 **Target device:** Samsung Galaxy Tab S6 Wi-Fi — SM-T860 (`gts6lwifi`)  
 **Base firmware:** T860XXS5DWH1 (vendor/boot/dtbo) + T733XXS9DYF1 (system/product, Android 14 / One UI 6)  
-**Build date:** 2025-06-19
+**Build date:** 2026-06-19
 
 ---
 
